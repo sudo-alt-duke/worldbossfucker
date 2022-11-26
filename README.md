@@ -1,4 +1,4 @@
-# worldbossfucker
+# worldbossfucker V2 has released
 Cheat for worldboss 
 
 
