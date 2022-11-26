@@ -35,3 +35,11 @@ Ugh, here bitch <br />
 ![alt text](https://cdn.discordapp.com/attachments/895390713355849758/1046163780184313877/image.psd.png) <br />
 
 Isn't it nice?
+
+# Who is currently working on this project? <br />
+
+Xzadmin and Dukewillam <br />
+
+# Can I contact you?
+
+xzadmin#6236
