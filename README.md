@@ -10,7 +10,7 @@ Back to your scheduled programming...
 I made this for fun, use this hack for educational purposes
 
 # FAQ
-# Well, how do I install this duke?
+# Well, how do I install this xz and dxke?
 Well little timmy, thats the thing. Its private if you don't know me!! ![alt text](https://i.kym-cdn.com/entries/icons/original/000/034/213/cover2.jpg)
 # Well I know you, how do I install this?
 1: Get the exe and open worldboss <br />
@@ -38,7 +38,7 @@ Isn't it nice?
 
 # Who is currently working on this project? <br />
 
-Xzadmin and Dukewillam <br />
+Xzadmin and dxkewillam <br />
 
 # Can I contact you?
 
