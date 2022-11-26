@@ -1,5 +1,5 @@
 # worldbossfucker V2 has released
-Cheat for worldboss 
+Cheat for worldboss made by the filthy australlian men 
 
 
 
@@ -28,3 +28,10 @@ no
 # how do i know this isn't a rat?
 
 Well, thats purely your decision to download this. If it is a rat then I would prob advertise this more
+
+# what does the gui look like?
+
+Ugh, here bitch <br />
+![alt text](https://cdn.discordapp.com/attachments/895390713355849758/1046163780184313877/image.psd.png) <br />
+
+Isn't it nice?
